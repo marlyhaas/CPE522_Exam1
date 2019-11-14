@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ control-gpio.cpp GPIO.cpp derek_LED.cpp -o control-gpio -pthread

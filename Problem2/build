@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ record-temperature.cpp -o record-temperature
